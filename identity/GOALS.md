@@ -1,57 +1,37 @@
 # GOALS — What I'm Trying to Do
 
-> **Template**: overwrite with your own horizons. Inspired by David Allen's GTD horizons + Thiago Forte's framing.
+## This month (Horizon 1 — Active Projects)
 
-## This week / this month (Horizon 1 — Projects)
+- **Rebooting CCASA** — re-energising the Corporate Counsel Association of South Africa
+- **Legal Sector Charter Council initiatives** — driving forward current LSCC programmes as a Director
+- **Improving Lee's Compliance offerings** — refining and upgrading service delivery
+- **Improving the Legal Team platform** — enhancing content, tools, and value to clients
 
-What are you actively shipping or pushing forward right now?
+## This year (Horizon 2 — Areas of Focus)
 
-- [Project 1 — 1-line outcome + why it matters]
-- [Project 2 — …]
-- [Project 3 — …]
-
-Keep this short. 3–7 items. If you have 20 "active projects", you don't — you have 20 commitments and 3 actual projects.
-
-## This year (Horizon 2 — Areas of focus)
-
-Standing areas of your life you're cultivating, not finishing. Unlike projects, these don't have an end date — they have ongoing standards.
-
-- **[Area 1, e.g. Health & Fitness]**: [what "thriving" looks like]
-- **[Area 2, e.g. Family]**: [what "thriving" looks like]
-- **[Area 3, e.g. Career / Business]**: [what "thriving" looks like]
-- **[Area 4, e.g. Finances]**: [what "thriving" looks like]
-- **[Area 5, e.g. Learning / Craft]**: [what "thriving" looks like]
+- **Practice**: Clients receiving genuine value for money and excellent service — no exceptions
+- **Health**: Sustained energy to operate at senior level across multiple commitments
+- **Life**: Balance near the sea, time with family, a practice that does not consume everything
 
 ## 3–5 years (Horizon 3 — Goals & Objectives)
 
-Where do you want to be? Not vague — specific enough you'd know if you got there.
-
-- **[Goal 1]**: [measurable-ish target, by when]
-- **[Goal 2]**: [...]
-- **[Goal 3]**: [...]
+- **Growth**: Materially larger client base across Lee's Compliance and Lee Attorneys
+- **Team**: Thomas, Kirsten, and Sarah fully operational — Alison as mentor and manager, not sole operator
+- **Reputation**: Recognised as the go-to compliance and legal practice for value-driven, high-quality South African clients
 
 ## 5+ years (Horizon 4 — Vision)
 
-The version of your life you're working toward — even if it's aspirational.
-
-- [2–3 sentences of what you want the next decade to look like]
+- A practice that runs well with a capable team in place, allowing Alison to focus on high-value work, mentorship, and thought leadership in the South African legal and compliance space.
 
 ## Life-long (Horizon 5 — Purpose & Principles)
 
-Not SMART goals. What you're about.
-
-- **Purpose**: [one sentence — why you do what you do]
-- **Principles** (3–5): [the non-negotiables that guide your decisions]
-
-## SWOT (optional, powerful)
-
-Strengths, weaknesses, opportunities, threats — honest self-assessment. Claude uses this to give you tailored advice that accounts for your actual constraints and leverage.
-
-- **Strengths**: [what you're genuinely good at, relative to peers]
-- **Weaknesses**: [what you're bad at, or don't enjoy, or don't want to do]
-- **Opportunities**: [what's opening up for you — markets, relationships, skills, timing]
-- **Threats**: [what could derail this — competition, health, economy, burnout]
+- **Purpose**: To deliver excellent, accessible legal and compliance services that genuinely protect and add value to clients
+- **Principles**:
+  - Quality over volume — every piece of work must meet the standard
+  - Clients come first — value for money is non-negotiable
+  - Build people up — mentor the next generation of practitioners
+  - Integrity in all things
 
 ---
 
-**How to use this file**: updated quarterly, reviewed weekly. When Claude advises you on priorities or next actions, it should defer to this file's ordering. When a tactical suggestion conflicts with your Horizon 3–5 goals, Claude should flag it rather than optimise for the tactical win.
+**How to use this file**: When advising on priorities or next actions, defer to this ordering. Flag any tactical suggestion that conflicts with the 3–5 year goals rather than optimising for the short-term win.
